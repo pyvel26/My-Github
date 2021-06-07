@@ -1,6 +1,6 @@
 ## Hi I'm Estervelle <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Database Administrator aspiring to one day be a Data Engineer. I love to create programs with Python; therefore, I want to use my github to show employers my creativity. 
+I love SQL, Python and databases. I would like to use my github to land a junior level role working with databases.  Please check out a few of the projects I've worked on as there is more to come.  
 
 :mailbox: Contact Me!
 

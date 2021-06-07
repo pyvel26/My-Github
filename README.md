@@ -4,7 +4,7 @@ I'm a Database Administrator aspiring to one day be a Data Engineer. I love to c
 
 :mailbox: Contact Me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Bak_2IT-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bak_2IT)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-EstervelleB-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estervelleb/) [![Mail Badge](https://img.shields.io/badge/-@bak_2IT-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bak_2IT) [![Mail Badge](https://img.shields.io/badge/-estervellebennett-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:estervellebennett@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Bak_2IT-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bak_2IT)](https://twitter.com/Bak_2IT) [![Linkedin Badge](https://img.shields.io/badge/-EstervelleB-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estervelleb/) [![Mail Badge](https://img.shields.io/badge/-@bak_2IT-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bak_2IT) [![Mail Badge](https://img.shields.io/badge/-estervellebennett-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:estervellebennett@gmail.com)
 
 <!-- TODO: Add last video link -->
 

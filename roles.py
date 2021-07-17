@@ -4,8 +4,7 @@ import getpass
 from getpass import getpass 
 
 
-# I started my coding with creating a function prompt to receive the user name. This code will querry the Postgresql database and check
-# to see if the username provided is already in the table. If this is true, we will see "User already exists" If not, the username is returned.
+
 
 def prompt_username(con):
     cur = con.cursor()
@@ -17,10 +16,6 @@ def prompt_username(con):
             return username
         print("User already exists.")
 
-
-#Next I created a function to create the user and we start by opening a connection with psycopg2.
-# I used getpass to scramble the password on the file. 
-#The username retrieved from above
 
 def userCreation():
     con = psycopg2.connect(
@@ -39,13 +34,16 @@ def userCreation():
     cur = con.cursor()
     cur.execute(query.as_string(con))
 
-    query = sql.SQL("GRANT pg_monitor").format(
-        sql.Identifier(username)),
-    #cur.execute('''GRANT pg_monitor TO "Dreadpoet";''')
+    
+    query1 = sql.SQL("GRANT pg_monitor To {0} ").format(
+        sql.Identifier(username),)
+
+    cur = con.cursor()
+    cur.execute(query1.as_string(con))
     cur.execute("COMMIT")
     print("Permission granted successfully")
 
-#--PERMISSIONS----------
+#--AVAILABLE_PERMISSIONS----------
 #pg_execute_server_program
 #pg_monitor
 #pg_read_all_settings

@@ -33,15 +33,20 @@ def userCreation():
     )
     cur = con.cursor()
     cur.execute(query.as_string(con))
+    cur.execute("COMMIT")
 
-    
-    query1 = sql.SQL("GRANT pg_monitor To {0} ").format(
+
+    permission = input("Enter permission:")
+    query1 = sql.SQL("GRANT {0} To {1} ").format(
+        sql.Identifier(permission),
         sql.Identifier(username),)
 
     cur = con.cursor()
     cur.execute(query1.as_string(con))
     cur.execute("COMMIT")
     print("Permission granted successfully")
+
+
 
 #--AVAILABLE_PERMISSIONS----------
 #pg_execute_server_program
@@ -56,5 +61,3 @@ def userCreation():
 
 if __name__ == '__main__':
     userCreation()
-
-

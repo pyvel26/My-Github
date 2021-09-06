@@ -13,7 +13,7 @@ I love SQL, Python, data and databases. I would like to use my github to showcas
 - 🤔 I’m currently looking for a Data Analyst role.
 - 📫 How to reach me: Estervellebennett@gmail.com.
 - 😄 Pronouns: Vel, EB, Estervelle.
-- ⚡ Fun fact: I workout alot and  love watching horror movies.
+- ⚡ Fun fact: I've recorded music and  love watching horror movies.
 
 
 #### Bizness

@@ -10,7 +10,7 @@ I love SQL, Python, data and databases. I would like to use my github to showcas
 
 - 🔭 I’m currently working on a couple interesting **Python** projects
 - :computer: Most used line of code lately  `username = input("Enter User Name : ")`
-- 🤔 I’m looking for an entry-level job as a Data Analyst.
+- 🤔 I’m currently looking for a Data Analyst role.
 - 📫 How to reach me: Estervellebennett@gmail.com.
 - 😄 Pronouns: Vel, EB, Estervelle.
 - ⚡ Fun fact: I workout alot and  love watching horror movies.

@@ -4,12 +4,12 @@ Welcome to my Data Engineering Man Cave...:)  Please check out a few of the proj
 
 :mailbox: Contact Me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Bak_2IT-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bak_2IT)](https://twitter.com/Bak_2IT) [![Linkedin Badge](https://img.shields.io/badge/-EstervelleB-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estervelleb/) [![Mail Badge](https://img.shields.io/badge/-@bak_2IT-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/bak_2IT) [![Mail Badge](https://img.shields.io/badge/-estervellebennett-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:estervellebennett@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@He_loves_data-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/he_loves_data)](https://twitter.com/he_loves_data) [![Linkedin Badge](https://img.shields.io/badge/-EstervelleB-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estervelleb/) [![Mail Badge](https://img.shields.io/badge/-@he_loves_data-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/he_loves_data) [![Mail Badge](https://img.shields.io/badge/-estervellebennett-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:estervellebennett@gmail.com)
 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on a couple interesting **Python** projects
-- :computer: Most used line of code lately  `username = input("Enter User Name : ")`
+- :computer:Lately I've traveled over to Big Data and use Spark (PySpark) alot 
 - 🤔 I’m currently looking for a Data Analyst role.
 - 📫 How to reach me: Estervellebennett@gmail.com.
 - 😄 Pronouns: he, him

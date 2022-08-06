@@ -12,7 +12,7 @@ I love SQL, Python, data and databases. I would like to use my github to showcas
 - :computer: Most used line of code lately  `username = input("Enter User Name : ")`
 - 🤔 I’m currently looking for a Data Analyst role.
 - 📫 How to reach me: Estervellebennett@gmail.com.
-- 😄 Pronouns: Vel, EB, Estervelle.
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: I've recorded music and  love watching horror movies.
 
 
@@ -30,8 +30,16 @@ I love SQL, Python, data and databases. I would like to use my github to showcas
 
 I love learning new things!
 
-#### What is Bak_2IT?
+What I love about Data Engineering!
 
-Well, I started in the computer industry on the deployment team in 2001 and moved on to Comcast helpdesk.  I was on the typical path to enter the IT world; however, the job market drastically changed in 2008. Also, I was young and began to explore Psychology and various jobs. I guess I needed to find myself. 18 years later, I decided I didn't want any regrets in life. I told myself that life was too short and at 43 I decided to get my MTA Database Fundamentals Certification in January of 2021. Next, I earned my MS Azure Fundamentals certification then started to learn Python.  I was determined to get Bak_2IT. :)
+Building and designing a data infrastructure are processes that involves careful planning, meetings, workshops and discussions.
+It's an involved but exciting process to see each piece of the puzzle come together.  Even if something doesn't work, there are always other options. 
+I realize that today many organizations use a combination of Kimbal and Inmon models when designing there data warehouse.  The great thing is that it
+depends on the organizational needs. 
+  
+I'm fascinated with working with large amounts of data.  So far 7 million rows have been the largest dataset I've worked with.
+I'm fascinated with using a variety of tools(SQL,Python, Bash) to solve problems and automate tasks.
+My skills are growing stronger and I try to learn new things from more experienced professionals; therefore,
+constructive criticism is welcomed. 
 
 

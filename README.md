@@ -1,6 +1,6 @@
 ## Hi I'm Estervelle <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Welcome to my Data Engineering Man Cave...:)  Please check out a few of the projects I've worked on as there is more to come.  
+Welcome to my Data Engineering.:)  Please check out a few of the projects I've worked on as there is more to come.  
 
 :mailbox: Contact Me!
 

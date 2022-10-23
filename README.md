@@ -9,8 +9,8 @@ Welcome to my Data Engineering Man Cave...:)  Please check out a few of the proj
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on a couple interesting **Python** projects
-- :computer:Lately I've traveled over to Big Data and use Spark (PySpark) alot 
-- 🤔 I’m currently looking for a Data Analyst role.
+- :computer: I'm working on an Azure Synapse Project. I want to work with all cloud providers
+- 🤔 I’m currently looking for a Data Engineer role.
 - 📫 How to reach me: Estervellebennett@gmail.com.
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I've recorded music and  love watching horror movies.
@@ -32,14 +32,8 @@ I love learning new things!
 
 What I love about Data Engineering!
 
-Building and designing a data infrastructure are processes that involves careful planning, meetings, workshops and discussions.
-It's an involved but exciting process to see each piece of the puzzle come together.  Even if something doesn't work, there are always other options. 
-I realize that today many organizations use a combination of Kimbal and Inmon models when designing there data warehouse.  The great thing is that it
-depends on the organizational needs. 
-  
-I'm fascinated with working with large amounts of data.  So far 7 million rows have been the largest dataset I've worked with.
-I'm fascinated with using a variety of tools(SQL,Python, Bash) to solve problems and automate tasks.
-My skills are growing stronger and I try to learn new things from more experienced professionals; therefore,
-constructive criticism is welcomed. 
+
+Data Engineering is much more than code and queries. It's building, maintaining and supporting all data systems used for analytics. These data systems are designed to support the organizations goals and objectives.  My customers are the stakeholders as well as the business users. The product I sell is accessible data thats easy to understand, query and consume. Although I have a solid idea of the typical data engineer role, I'm aware there are different responsibilities with each company.  This role requires hardwork, planning, creativity, grit and a problem solving aptitude. I have all the qualities listed and I'm looking to land my first Data Engineer role with a company that seeking someone who is industrious, self-motivated, and a quick learner.  
+
 
 
